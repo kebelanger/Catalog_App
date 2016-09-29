@@ -12,9 +12,9 @@
     tools:context="com.example.dianebelanger.hello_app.MainActivity"
     tools:showIn="@layout/activity_main">
 
-    // hello
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello Kristen!" />
+        android:text="Hello World!" />
 </RelativeLayout>
