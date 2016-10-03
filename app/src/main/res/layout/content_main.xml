@@ -12,7 +12,7 @@
     tools:context="com.example.dianebelanger.hello_app.MainActivity"
     tools:showIn="@layout/activity_main">
 
-
+//kristen's comment
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
